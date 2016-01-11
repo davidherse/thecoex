@@ -1,0 +1,46 @@
+body, p {
+  font-family: 'Cabin', sans-serif;
+  margin: 0px;
+}
+
+body, p, div, a {
+  box-sizing: border-box;
+}
+
+.header {
+  margin: 0 auto;
+  margin-top: 40px;
+  max-width: 900px;
+  width: 100%;
+  text-align: center;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.launching {
+  padding: 80px;
+  font-size: 40px;
+  color: grey;
+}
+
+.contact_form {
+  margin: 0 auto;
+  max-width: 360px;
+  width: 100%;
+  background: grey;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.wufoo .info h2 {
+  text-align: center;
+  color: white;
+  font-size: 23px;
+  font-weight: 300;
+  font-family: 'Cabin', sans-serif;
+}
+
+.site_logo {
+  width: 347px;
+  height: 84px;
+}
