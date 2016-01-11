@@ -44,7 +44,7 @@ body, p, div, a {
   font-family: 'Cabin', sans-serif;
 }
 
-.wufoo form li span {
+.wufoo li span {
   float: none;
 }
 
