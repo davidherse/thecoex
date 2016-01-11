@@ -48,11 +48,11 @@ body, p, div, a {
   float: none;
 }
 
-.wufoo form li.focused {
+.wufoo li.focused {
   background-color: #f5f5f5;
 }
 
-.wufoo form li {
+.wufoo li {
   padding: 6px 12px 9px 12px;
 }
 
