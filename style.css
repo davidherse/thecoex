@@ -12,7 +12,7 @@ body, p, div, a {
 .header {
   margin: 0 auto;
   margin-top: 40px;
-  max-width: 900px;
+  max-width: 550px;
   width: 100%;
   text-align: center;
   padding: 40px;
@@ -20,7 +20,7 @@ body, p, div, a {
 }
 
 .launching {
-  padding: 80px 80px 40px 80px;
+  padding: 80px 0px 40px 0px;
   font-size: 20px;
   color: grey;
 }
@@ -55,7 +55,7 @@ body, p, div, a {
 }
 
 .wufoo li {
-  padding: 6px 12px 9px 12px;
+  padding: 0px;
 }
 
 .wufoo input.text, input.search, textarea.textarea {
@@ -88,7 +88,7 @@ a.power {
   display: inline-block;
   position: relative;
   overflow: hidden;
-  margin: 10px;
+  margin: 0px;
   text-align: center;
   white-space: nowrap;
   -webkit-user-select: none;
@@ -105,6 +105,7 @@ a.power {
   border-color: #00ADEF;
   cursor: pointer;
   padding: 0px 44px;
+  width: 100%;
 }
 
 .wufoo input.btTxt:hover {
