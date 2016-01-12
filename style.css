@@ -60,6 +60,7 @@ p {
 
 .wufoo li {
   padding: 0px;
+  margin-bottom: 20px;
 }
 
 .wufoo input.text, input.search, textarea.textarea {
