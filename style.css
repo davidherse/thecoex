@@ -9,10 +9,14 @@ body, p, div, a {
   box-sizing: border-box;
 }
 
+p {
+  margin-bottom: 20px;
+}
+
 .header {
   margin: 0 auto;
   margin-top: 40px;
-  max-width: 550px;
+  max-width: 500px;
   width: 100%;
   text-align: center;
   padding: 40px;
@@ -26,7 +30,7 @@ body, p, div, a {
 }
 
 .contact_form {
-  margin: 0 auto;
+  margin: 0 auto 80px auto;
   max-width: 360px;
   width: 100%;
   background: #E2E2E2;
@@ -35,8 +39,8 @@ body, p, div, a {
 }
 
 .site_logo {
-  width: 347px;
-  height: 84px;
+  max-width: 347px;
+  width: 100%;
 }
 
 .wufoo .info h2 {
